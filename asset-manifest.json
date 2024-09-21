@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fc62ae24.css",
+    "main.js": "/portfolio/static/js/main.d1df308c.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/portfolio1.png": "/portfolio/static/media/portfolio1.8cfb0cbf1d33fc755d82.png",
+    "static/media/portfolio2.png": "/portfolio/static/media/portfolio2.259f5290b83d570e1c37.png",
+    "static/media/mediConnect.jpg": "/portfolio/static/media/mediConnect.81fd2b17ca09ef56e235.jpg",
+    "static/media/mediConnect2.png": "/portfolio/static/media/mediConnect2.4cf515ea6d4d8ba8390d.png",
+    "index.html": "/portfolio/index.html",
+    "main.fc62ae24.css.map": "/portfolio/static/css/main.fc62ae24.css.map",
+    "main.d1df308c.js.map": "/portfolio/static/js/main.d1df308c.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc62ae24.css",
+    "static/js/main.d1df308c.js"
+  ]
+}
