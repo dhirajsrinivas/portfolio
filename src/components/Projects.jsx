@@ -4,6 +4,8 @@ import mediConnect from "../assets/mediConnect.jpg";
 import mediConnect2 from "../assets/mediConnect2.png"
 import portfolio1 from "../assets/portfolio1.png"
 import portfolio2 from "../assets/portfolio2.png"
+import lms1 from  "../assets/lms1.png"
+import lms2 from "../assets/lms2.png"
  // Ensure App.css is inside the src directory
 
 export default function Projects() {
@@ -25,6 +27,13 @@ export default function Projects() {
       image1:portfolio1,
       image2:portfolio2
     },
+    {
+      title:"Library Management system",
+      description: " Library management system with user authentication which enables librarian to perform CRUD operations ,while students can only view books .",
+      technologies: "Ejs, CSS, Node.js,Express, Bootstrap, PostgreSQL ",
+      image1:lms1,
+      image2:lms2
+    }
     // Add more projects here
   ];
 
